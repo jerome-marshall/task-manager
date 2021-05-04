@@ -3,4 +3,9 @@
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="ES6" />
   </component>
+  <component name="ProjectPlainTextFileTypeManager">
+    <file url="file://$PROJECT_DIR$/config/dev.env" />
+    <file url="file://$PROJECT_DIR$/config/prod.env" />
+    <file url="file://$PROJECT_DIR$/node_modules/bcryptjs/externs/minimal-env.js" />
+  </component>
 </project>
